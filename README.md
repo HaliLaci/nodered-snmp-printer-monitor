@@ -20,7 +20,9 @@ The system periodically queries networked printers via SNMP protocol, collects t
 - **SNMP** protocol for printer communication
 
 
-## Magyar verzió
+## 🇭🇺 Magyar verzió
+
+
 
 Ez a projekt központi megoldást kínál a nyomtatók toner szintjének monitorozására **Node-RED**, **SNMP** és **Raspberry Pi** segítségével.  
 A rendszer időközönként lekérdezi a hálózatban lévő nyomtatókat SNMP protokollon keresztül, összegyűjti a toner szinteket, és a Node-RED dashboardon jeleníti meg az adatokat.
