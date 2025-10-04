@@ -19,6 +19,11 @@ The system periodically queries networked printers via SNMP protocol, collects t
 - **Node-RED** for data processing and visualization
 - **SNMP** protocol for printer communication
 
+### 🖼️ Dashboard
+![Dashboard screenshot](screenshots/printer_dashboard.jpg)
+
+### ⚙️ Node-RED Flow
+![Flow screenshot](screenshots/nodered_flow_screen.jpg)
 
 ## 🇭🇺 Magyar verzió
 
