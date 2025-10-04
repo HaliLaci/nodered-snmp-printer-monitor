@@ -20,10 +20,15 @@ The system periodically queries networked printers via SNMP protocol, collects t
 - **SNMP** protocol for printer communication
 
 ### 🖼️ Dashboard
-![Dashboard screenshot](screenshots/printer_dashboard.jpg)
+
+<p align="center">
+  <img src="screenshots/printer_dashboard.jpg" width="45%">
+</p>
 
 ### ⚙️ Node-RED Flow
-![Flow screenshot](screenshots/nodered_flow_screen.jpg)
+<p align="center">
+  <img src="screenshots/nodered_flow_screen.jpg" width="45%">
+</p>
 
 ## 🇭🇺 Magyar verzió
 
